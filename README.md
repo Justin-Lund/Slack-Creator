@@ -1,8 +1,6 @@
 # Slack-Creator
 Scripts to quickly spin up a new Slack workspace
 
-&nbsp;
-
 ## Getting a Slack Token
 
 1) Go to https://api.slack.com/tutorials/tracks/getting-a-token
