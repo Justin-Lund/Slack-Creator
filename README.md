@@ -3,8 +3,11 @@ Scripts to quickly spin up a new slack workspace
 
 # Slack API Resources
 [conversations.create](https://api.slack.com/methods/conversations.create)
+
 [conversations.list](https://api.slack.com/methods/conversations.list)
+
 [conversations.invite](https://api.slack.com/methods/conversations.invite)
+
 [users.list](https://api.slack.com/methods/users.list)
 
 &nbsp;
