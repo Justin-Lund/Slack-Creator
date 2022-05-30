@@ -48,16 +48,12 @@ curl -X POST -H 'Authorization: Bearer xoxb-01234567890123-4567890123456-abcDEfg
 https://slack.com/api/conversations.list
 ```
 
-&nbsp;
-
 ### List Users
 ```bash
 curl -X POST -H 'Authorization: Bearer xoxb-01234567890123-4567890123456-abcDEfghI1Jklmn2o3PQrstuv' \
 -H 'Accept: application/json' \
 https://slack.com/api/users.list
 ```
-
-&nbsp;
 
 ### Add User to Channel
 
@@ -72,16 +68,12 @@ curl -X POST -H 'Authorization: Bearer xoxb-01234567890123-4567890123456-abcDEfg
 https://slack.com/api/conversations.invite
 ```
 
-&nbsp;
-
 ### Extract Channel IDs
 ```bash
 curl -s -X POST -H 'Authorization: Bearer xoxb-01234567890123-4567890123456-abcDEfghI1Jklmn2o3PQrstuv' \
 -H 'Accept: application/json' \
 https://slack.com/api/conversations.list | jq '.channels | .[] | .id'
 ```
-
-&nbsp;
 
 ### Extract User IDs
 ```bash
