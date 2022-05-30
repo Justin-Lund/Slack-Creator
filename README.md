@@ -39,7 +39,7 @@ The token will be auto-populated under "Step 1 - Using your token"
 ***
 &nbsp;
 
-# One Liner Examples
+# Bash One Liner Examples
 
 &nbsp;
 
@@ -107,4 +107,5 @@ https://slack.com/api/users.list | jq '.members | .[] | .id'
 
 # Slack Apps To Install
 [RSS](https://slack.com/apps/A0F81R7U7-rss)
+
 [Giphy](https://slack.com/apps/A0F827J2C-giphy)
