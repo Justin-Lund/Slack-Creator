@@ -1,6 +1,8 @@
 # Slack-Creator
 Scripts to quickly spin up a new slack workspace
 
+&nbsp;
+
 ## Slack API Resources
 [conversations.create](https://api.slack.com/methods/conversations.create)
 
