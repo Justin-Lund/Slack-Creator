@@ -1,7 +1,7 @@
-# slack-creator
+# Slack-Creator
 Scripts to quickly spin up a new slack workspace
 
-# Slack API Resources
+## Slack API Resources
 [conversations.create](https://api.slack.com/methods/conversations.create)
 
 [conversations.list](https://api.slack.com/methods/conversations.list)
@@ -14,7 +14,7 @@ Scripts to quickly spin up a new slack workspace
 ***
 &nbsp;
 
-# Getting a Slack Token
+## Getting a Slack Token
 
 1) Go to https://api.slack.com/tutorials/tracks/getting-a-token
 2) Press "Create app"
