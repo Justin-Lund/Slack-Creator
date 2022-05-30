@@ -29,8 +29,6 @@ The token will be auto-populated under "Step 1 - Using your token"
 
 ## Bash One Liner Examples
 
-&nbsp;
-
 ### Create Channel
 ```bash
 curl -X POST -H 'Authorization: Bearer xoxb-01234567890123-4567890123456-abcDEfghI1Jklmn2o3PQrstuv' \
@@ -38,8 +36,6 @@ curl -X POST -H 'Authorization: Bearer xoxb-01234567890123-4567890123456-abcDEfg
 --data '{"name":"testchannel2"}' \
 https://slack.com/api/conversations.create
 ```
-
-&nbsp;
 
 ### List Channels
 ```bash
@@ -54,6 +50,8 @@ curl -X POST -H 'Authorization: Bearer xoxb-01234567890123-4567890123456-abcDEfg
 -H 'Accept: application/json' \
 https://slack.com/api/users.list
 ```
+
+&nbsp;
 
 ### Add User to Channel
 
