@@ -1,5 +1,5 @@
 # Slack-Creator
-Scripts to quickly spin up a new slack workspace
+Scripts to quickly spin up a new Slack workspace
 
 &nbsp;
 
