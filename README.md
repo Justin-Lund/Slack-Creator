@@ -76,6 +76,7 @@ https://slack.com/api/users.list
 ## Add User to Channel
 
 Example User ID: **A01B2CDEFGH**
+
 Example Channel ID:**A01BCDEF23G**
 
 ```bash
