@@ -12,6 +12,12 @@ Scripts to quickly spin up a new Slack workspace
 
 ![image](https://user-images.githubusercontent.com/47057520/180848630-8712b8ee-a05e-4c97-81e1-33c39915a739.png | width = 100)
 
+<img src="https://user-images.githubusercontent.com/47057520/180848630-8712b8ee-a05e-4c97-81e1-33c39915a739.png" alt="" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/47057520/180848630-8712b8ee-a05e-4c97-81e1-33c39915a739.png)" width="200"/>
+
+
+
+
+
 
 &nbsp;
 ***
