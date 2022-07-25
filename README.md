@@ -10,7 +10,7 @@ Scripts to quickly spin up a new Slack workspace
 5) At the top of the screen, select the link to go back to the "How to quickly get and use a Slack API token" page.
 - The token will be auto-populated under "Step 1 - Using your token"
 
-![](https://user-images.githubusercontent.com/47057520/180848630-8712b8ee-a05e-4c97-81e1-33c39915a739.png | width = 100)
+![image](https://user-images.githubusercontent.com/47057520/180848630-8712b8ee-a05e-4c97-81e1-33c39915a739.png | width = 100)
 
 
 &nbsp;
