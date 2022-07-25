@@ -1,0 +1,38 @@
+_metadata:
+  major_version: 1
+  minor_version: 1
+display_information:
+  name: Slack-Creator
+  description: Slack API tool for spinning up a new Slack Workspace
+  background_color: "#96306c"
+features:
+  bot_user:
+    display_name: Slack Creator
+    always_online: true
+  app_home:
+    home_tab_enabled: false
+    messages_tab_enabled: true
+    messages_tab_read_only_enabled: true
+oauth_config:
+  scopes:
+    bot:
+      - app_mentions:read
+      - channels:join
+      - channels:manage
+      - channels:read
+      - groups:read
+      - groups:write
+      - im:read
+      - im:write
+      - mpim:read
+      - mpim:write
+      - users:read
+      - users:write
+settings:
+  event_subscriptions:
+    bot_events:
+      - app_mention
+  interactivity:
+    is_enabled: true
+  org_deploy_enabled: false
+  socket_mode_enabled: true
