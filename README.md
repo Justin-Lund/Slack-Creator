@@ -8,7 +8,7 @@ Scripts to quickly spin up a new Slack workspace
 3) Edit permissions as desired (See [config.txt](https://github.com/Justin-Lund/Slack-Creator/blob/main/config.txt) for required permissions)
 4) Press "Install to Workspace" & follow the prompts
 5) At the top of the screen, select the link to go back to the "How to quickly get and use a Slack API token" page.
-The token will be auto-populated under "Step 1 - Using your token"
+- The token will be auto-populated under "Step 1 - Using your token"
 
 &nbsp;
 ***
