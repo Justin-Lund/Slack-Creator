@@ -22,7 +22,11 @@ curl -X POST -H 'Authorization: Bearer xoxb-01234567890123-4567890123456-abcDEfg
 https://slack.com/api/conversations.create
 ```
 
+
 &nbsp;
+***
+&nbsp;
+
 
 ### Extract Channel IDs
 ```bash
