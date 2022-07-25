@@ -19,6 +19,7 @@ Scripts to quickly spin up a new Slack workspace
 
 ## Slack Apps To Install
 [RSS](https://slack.com/apps/A0F81R7U7-rss)
+
 If migrating from a previous slack channel, run `/feed list` to list RSS feeds
 
 [Giphy](https://slack.com/apps/A0F827J2C-giphy)
