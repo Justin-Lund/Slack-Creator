@@ -1,6 +1,6 @@
-# create-channels.sh & add-users.sh combined
-
 #!/bin/bash
+
+# create-channels.sh & add-users.sh combined
 
 # Set Bearer Token Here
 token='Authorization: Bearer xoxb-01234567890123-4567890123456-abcDEfghI1Jklmn2o3PQrstuv'
