@@ -24,8 +24,6 @@ Scripts to quickly spin up a new Slack workspace
 [Giphy](https://slack.com/apps/A0F827J2C-giphy)
 
 &nbsp;
-***
-&nbsp;
 
 ## Slack API Resources
 [conversations.create](https://api.slack.com/methods/conversations.create)
