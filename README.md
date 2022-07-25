@@ -40,19 +40,6 @@ https://slack.com/api/users.list
 
 &nbsp;
 
-### Add User to Channel
-
-Example User ID: **A01B2CDEFGH**
-
-Example Channel ID:**A01BCDEF23G**
-
-```bash
-curl -X POST -H 'Authorization: Bearer xoxb-01234567890123-4567890123456-abcDEfghI1Jklmn2o3PQrstuv' \
--H 'Content-type: application/json; charset=utf-8' \
---data '{"channel":"A01BCDEF23G","users":"A01B2CDEFGH"}' \
-https://slack.com/api/conversations.invite
-```
-
 ### Extract Channel IDs
 ```bash
 curl -s -X POST -H 'Authorization: Bearer xoxb-01234567890123-4567890123456-abcDEfghI1Jklmn2o3PQrstuv' \
@@ -65,6 +52,15 @@ https://slack.com/api/conversations.list | jq '.channels | .[] | .id'
 curl -s -X POST -H 'Authorization: Bearer xoxb-01234567890123-4567890123456-abcDEfghI1Jklmn2o3PQrstuv' \
 -H 'Accept: application/json' \
 https://slack.com/api/users.list | jq '.members | .[] | .id'
+```
+
+### Add User to Channel
+
+```bash
+curl -X POST -H 'Authorization: Bearer xoxb-01234567890123-4567890123456-abcDEfghI1Jklmn2o3PQrstuv' \
+-H 'Content-type: application/json; charset=utf-8' \
+--data '{"channel":"A01BCDEF23G","users":"A01B2CDEFGH"}' \
+https://slack.com/api/conversations.invite
 ```
 
 &nbsp;
