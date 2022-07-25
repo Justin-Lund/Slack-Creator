@@ -4,15 +4,33 @@
 token='Authorization: Bearer xoxb-01234567890123-4567890123456-abcDEfghI1Jklmn2o3PQrstuv'
 
 # Set Channel Names Here
-channelNames=("channel1"
-"channel2"
-"channel3"
-"channel4"
-"channel5"
-"channel6"
-"channel7"
-"channel8"
-"channel9")
+channelNames=("active_incidents"
+"afk_alerts"
+"audit"
+"azure_dfir"
+"biz"
+"community"
+"domain_blocks"
+"gcp_dfir"
+"malware"
+"onboarding"
+"phishing"
+"policy"
+"process"
+"risk"
+"rss_feeds"
+"scripting"
+"splunk"
+"table_tops"
+"team_building"
+"threat_emulation"
+"threat_hunting"
+"threat_intel"
+"tools"
+"training"
+"vuln_management"
+"water_cooler"
+)
 
 #############################
 
