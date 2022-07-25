@@ -6,7 +6,7 @@ Scripts to quickly spin up a new Slack workspace
 1) Go to https://api.slack.com/tutorials/tracks/getting-a-token
 2) Under the header "Create a pre-configured app", Press "Create app" & select your Workspace
 3) Edit permissions as desired (required permissions for channel management listed below)
-4) Press "Install to Workspace"
+4) Press "Install to Workspace" & follow the prompts
 5) At the top of the screen, select the link to go back to the "How to quickly get and use a Slack API token" page
 The token will be auto-populated under "Step 1 - Using your token"
 
